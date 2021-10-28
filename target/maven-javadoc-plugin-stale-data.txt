@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP5 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP5 1.0-SNAPSHOT API'
+com.mycompany.poop5
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/src/main/java/com/mycompany/poop5/Carro.java'
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/src/main/java/com/mycompany/poop5/Circulo.java'
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/src/main/java/com/mycompany/poop5/Fecha.java'
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/src/main/java/com/mycompany/poop5/Main.java'
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 5/CODIGOS/POOP5/src/main/java/com/mycompany/poop5/Persona.java'
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\src\main\java = 1634214791177
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\allclasses-frame.html = 1635389688382
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\allclasses-noframe.html = 1635389688383
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\constant-values.html = 1635389688240
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\deprecated-list.html = 1635389688380
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\help-doc.html = 1635389688389
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\index-all.html = 1635389688375
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\index.html = 1635389688386
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\overview-tree.html = 1635389688353
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\package-list = 1635389688191
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\script.js = 1635389688390
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 5\CODIGOS\POOP5\target\site\apidocs\stylesheet.css = 1635388952879
